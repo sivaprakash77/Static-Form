@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    border:1px solid black;
+    width:30%;
+    font-size: 25px;
+    margin-top: 210px;
+    margin-right:auto;
+    margin-left:auto;
+}
+h3{
+    text-align: center;
+}
+.form{
+    background-color: blanchedalmond;
+}
+input{
+    padding:9px;
+}
+input:focus{
+    background-color: rgb(201, 198, 198);
+}
+select{
+    padding: 09px 61px;
+}
+button{
+    margin:20px;
+    padding:8px;
+}
+.sub:active{
+    background-color: rgb(201, 248, 130) ;
+}
+.can:active{
+    background-color: rgb(255, 123, 123);
+}
+
